@@ -54,3 +54,12 @@ span.rojo{
 strong {
     font-variant: small-caps;
 }
+q {
+    font-size: 150%;
+    border-bottom: red 1px dashed;
+    font-family: serif;
+}
+span.lugar {
+    color: blue;
+}
+
