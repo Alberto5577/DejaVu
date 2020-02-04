@@ -10,6 +10,7 @@ h1 {
 h2 {
     margin-left: 20%;
     margin-right: 20%;
+    border-bottom: white 5px solid;
 
 }
 body {
@@ -23,9 +24,6 @@ hr {
     background-color: black;
     height: 3px;
     width: 1200px;
-}
-hr.white {
-    
 }
 
 time {
@@ -48,4 +46,11 @@ p {
     margin-left: 20%;
     margin-right: 20%;
   }
-  
+
+span.rojo{
+    background-color: white;
+    color: red;
+}
+strong {
+    font-variant: small-caps;
+}
